@@ -63,13 +63,20 @@ body {
 }
 
 /* editing ul li */
-.ul-class {
+ul li {
+    text-decoration: none;
     list-style-type: none;
-    background-color: #aaa;
+}
+
+/* ul li links */
+.ul-class a {
+    text-decoration: none;
     width: 100%;
     padding: 20px;
-
 }
+
+/* if active */
+
 
 
 /* Main column */
